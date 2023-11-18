@@ -1,0 +1,98 @@
+[
+{
+    "name":"Blueberry Pancakes",
+    "price":"60",
+    "img":"https://www.tablefortwoblog.com/wp-content/uploads/2023/01/blueberry-pancakes-recipe-photo-tablefortwoblog-11-scaled.jpg",
+    "catégorie":"breakfast"
+},
+{
+    "name":"Smokehouse",
+    "price":"90",
+    "img":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/11/14/1/FN_50-states-barbecue-massachusetts-bts-smokehouse_s4x3.jpg.rend.hgtvcom.616.462.suffix/1510697885455.jpeg",
+    "catégorie":"breakfast"
+},
+{
+    "name":"Brunch Platter",
+    "price":"90",
+    "img":"https://katykicker.com/wp-content/uploads/2021/07/Breakfast-grazing-platter.jpg",
+    "catégorie":"breakfast"
+},
+{
+    "name":"Sunrise Sapmler",
+    "price":"60",
+    "img":"https://olo-images-live.imgix.net/70/7001bacb3eee469db4b30ac1a91f26a8.jpg?auto=format%2Ccompress&q=60&cs=tinysrgb&w=1200&h=800&fit=fill&fm=png32&bg=transparent&s=27bb593d2be4a3a470e922364fb67a57",
+    "catégorie":"breakfast"
+},
+{
+    "name":"cafe",
+    "price":"12",
+    "img":"https://www.centromedicomanzanera.com/wp-content/uploads/2022/04/CAFE-Y-REPRODUCCION.jpg",
+    "catégorie":"Drinks"
+},
+{
+    "name":"thé",
+    "price":"15",
+    "img":"https://www.agrimaroc.ma/wp-content/uploads/th%C3%A9-marocain.jpg",
+    "catégorie":"Drinks"
+},
+{
+    "name":"oronge juis",
+    "price":"20",
+    "img":"https://static.toiimg.com/thumb/msid-68562297,width-1280,resizemode-4/68562297.jpg",
+    "catégorie":"Drinks"
+},
+{
+    "name":"Appel Juice",
+    "price":"20",
+    "img":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/apple-juice-recipe.jpg",
+    "catégorie":"Drinks"
+},
+{
+    "name":"Iced Choco",
+    "price":"70",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7aL4sjpw633LcN2dpNeqJl8gUK0az9sFjYw&usqp=CAU",
+    "catégorie":"Drinks"
+},
+{
+    "name":"Cappuccino",
+    "price":"50",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cappuccino_at_Sightglass_Coffee.jpg/1200px-Cappuccino_at_Sightglass_Coffee.jpg",
+    "catégorie":"Drinks"
+},
+{
+    "name":"Americano",
+    "price":"50",
+    "img":"https://images.ctfassets.net/v601h1fyjgba/1vlXSpBbgUo9yLzh71tnOT/a1afdbe54a383d064576b5e628035f04/Iced_Americano.jpg",
+    "catégorie":"Drinks"
+},
+{
+    "name":"Cheesy Fries",
+    "price":"50",
+    "img":"https://www.acouplecooks.com/wp-content/uploads/2022/06/Cheese-Fries-005.jpg",
+    "catégorie":"SNACKS"
+},
+{
+    "name":"Hamburger",
+    "price":"60",
+    "img":"https://img.cuisineaz.com/1024x1024/2013/12/20/i99425-hamburger.webp",
+    "catégorie":"SNACKS"
+},
+{
+    "name":"Chicken & Fries",
+    "price":"80",
+    "img":"https://food.fnr.sndimg.com/content/dam/images/food/video/5/54/546/5464/5464907.jpg.rend.hgtvcom.616.462.suffix/1660324517177.jpeg",
+    "catégorie":"SNACKS"
+},
+{
+    "name":"Meaty Spaghetti",
+    "price":"60",
+    "img":"https://www.tasteofhome.com/wp-content/uploads/2018/01/Meaty-Spaghetti-Sauce_EXPS_SCSBZ21_13849_B01_14_1b-3.jpg",
+    "catégorie":"SNACKS"
+},
+{
+    "name":"Carbonara",
+    "price":"60",
+    "img":"https://images.radio-canada.ca/v1/alimentation/recette/1x1/carbonara.jpg",
+    "catégorie":"SNACKS"
+}
+]
